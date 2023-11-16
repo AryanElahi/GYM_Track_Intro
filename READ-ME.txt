@@ -1,4 +1,4 @@
-  =>  Template Name    : gymnast - Gym Website Template
+  =>  Template Name    : gym track - Gym Website Template
 
   =>  Template Link    : https://htmlcodex.com/gym-website-template
 
