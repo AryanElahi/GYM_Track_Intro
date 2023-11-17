@@ -1,0 +1,26 @@
+.text-primary {
+  /* change to green nav bar */
+  color: #90ce2e !important;
+}
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #fff !important;
+}
+
+.btn-outline-primary {
+  color: #90ce2e;
+  border-color: #90ce2e;
+}
+
+.bg-primary {
+  background-color: #90ce2e !important;
+}
+.feature i {
+  background-color: #90ce2e;
+}
+.btn-primary:hover,
+.btn-primary {
+  color: #fff;
+  background-color: #90ce2e !important;
+  border-color: #90ce2e !important;
+}
